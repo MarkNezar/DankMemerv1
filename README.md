@@ -1,2 +1,2 @@
 # DankMemerv1
-DankMember selfbot
+DankMember Discord selfbot
